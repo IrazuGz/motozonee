@@ -1,0 +1,2 @@
+Esta carpeta queda disponible para otras paginas HTML, como en los ejemplos de clase.
+La pagina principal esta en index.html para que funcione GitHub Pages.
